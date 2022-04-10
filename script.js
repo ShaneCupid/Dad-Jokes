@@ -21,12 +21,6 @@ generateJoke()
 //
 // }
 
-
-
-
-
-
-
 function generateJoke() {
   const config = {
     headers: {
